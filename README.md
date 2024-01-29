@@ -3,6 +3,8 @@
 ## Descrição
 Este projeto em Java implementa um sistema simples de pedidos, onde você pode registrar clientes, criar pedidos e adicionar itens aos pedidos. O sistema utiliza conceitos de programação orientada a objetos (POO) para organizar as entidades principais, como `Client`, `Order`, `OrderItem`, e `Product`.
 
+![diagrama_classes](https://github.com/rodri-oliveira/pedidos-java-oo/assets/44854361/2b40d973-1039-42a3-aae6-70da4c271438)
+
 ## Estrutura do Projeto
 
 ### Classes Principais
